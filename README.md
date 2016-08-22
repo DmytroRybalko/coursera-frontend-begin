@@ -1,1 +1,1 @@
-This is repo for laearning bacis web technologies (HTML, CSS, JS) on Coursera
+This repo is for learning basic web technologies (HTML, CSS, JS) with Coursera "HTML, CSS and Javascript for Web Developers" course.

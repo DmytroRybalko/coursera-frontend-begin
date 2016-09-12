@@ -1,0 +1,14 @@
+1. Install node: 
+sudo apt-get install node
+
+2. Install npm:
+sudo apt-get install npm
+
+3. Install browser-sync
+sudo npm install -g browser-sync
+
+4. Run the local server:
+browser-sync start --server --directory --files "*"
+
+!! If get error: "usr/bin/env: node: No such file or directory"
+Do next: sudo ln -s /usr/bin/nodejs /usr/bin/node
